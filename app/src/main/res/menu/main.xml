@@ -1,0 +1,72 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.personalsafety.app.MainActivity" >
+
+    <item android:id="@+id/action_service"
+          android:title="Service"
+          android:orderInCategory="100"
+          android:icon="@drawable/ic_action_place"
+          android:checkable="true"
+          app:showAsAction="always" />
+    <item android:id="@+id/action_send"
+          android:title="Invite"
+          android:orderInCategory="100"
+          android:icon="@drawable/ic_action_send_now"
+          android:checkable="true"
+          app:showAsAction="always" />
+    <item android:id="@+id/action_me"
+          android:title="Me"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+    <item android:id="@+id/action_follow"
+          android:title="Follow"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+    <item android:id="@+id/action_history"
+          android:title="History"
+          android:icon="@drawable/ic_action_repeat"
+          android:orderInCategory="100"
+          app:showAsAction="always" />
+    <item android:id="@+id/action_details"
+          android:title="Details"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+    <item android:id="@+id/action_play"
+          android:title="Play"
+          android:icon="@drawable/ic_action_play"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+    <item android:id="@+id/action_stop"
+          android:title="Stop"
+          android:icon="@drawable/ic_action_stop"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+    <item android:id="@+id/action_map_display"
+          android:title="Map Display"
+          android:orderInCategory="100"
+          app:showAsAction="never">
+        <menu>
+            <group android:checkableBehavior="single">
+                <item android:id="@+id/action_map_display_normal"
+                      android:title="Normal"/>
+                <item android:id="@+id/action_map_display_satellite"
+                      android:title="Satellite"/>
+                <item android:id="@+id/action_map_display_terrain"
+                      android:title="Terrain"/>
+                <item android:id="@+id/action_map_display_hybrid"
+                      android:title="Hybrid"/>
+            </group>
+        </menu>
+    </item>
+    <item android:id="@+id/action_markers"
+          android:title="Markers"
+          android:checkable="true"
+          android:orderInCategory="100"
+          app:showAsAction="never" />
+    <item android:id="@+id/action_settings"
+        android:title="@string/action_settings"
+        android:icon="@drawable/ic_action_settings"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+</menu>

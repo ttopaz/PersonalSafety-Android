@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content">
+    <TextView
+        android:id="@+id/trailNumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15sp"
+        android:text="#1"
+        android:paddingLeft="5dp">
+        android:paddingRight="8dp">
+    </TextView>
+    <TextView
+        android:id="@+id/trailDate"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/trailNumber"
+        android:textSize="15sp"
+        android:gravity="right"
+        android:text="1/1/1900"
+        android:paddingLeft="15dp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/trailSpeedTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/trailNumber"
+        android:textSize="15sp"
+        android:text="Speed:"
+        android:paddingLeft="5dp"/>
+    <TextView
+        android:id="@+id/trailSpeed"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/trailSpeedTitle"
+        android:layout_below="@+id/trailDate"
+        android:gravity="right"
+        android:text="10.0 mph"
+        android:textSize="15sp"
+        android:paddingLeft="5dp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/trailAvgSpeedTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/trailSpeedTitle"
+        android:textSize="15sp"
+        android:text="Avg Speed:"
+        android:paddingLeft="5dp"/>
+    <TextView
+        android:id="@+id/trailAvgSpeed"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_toRightOf="@+id/trailAvgSpeedTitle"
+        android:layout_below="@+id/trailSpeed"
+        android:gravity="right"
+        android:text="10.0 mph"
+        android:textSize="15sp"
+        android:paddingLeft="5dp">
+    </TextView>
+
+    <TextView
+        android:id="@+id/trailDistanceTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/trailAvgSpeedTitle"
+        android:textSize="15sp"
+        android:text="Distance:"
+        android:paddingLeft="5dp"/>
+    <TextView
+        android:id="@+id/trailDistance"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/trailAvgSpeedTitle"
+        android:layout_toRightOf="@+id/trailDistanceTitle"
+        android:gravity="right"
+        android:text="10.0 mi"
+        android:textSize="15sp"
+        android:paddingLeft="5dp">
+    </TextView>
+</RelativeLayout>

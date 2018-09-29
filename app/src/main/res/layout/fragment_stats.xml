@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:id="@+id/stats_large"
+              android:keepScreenOn="true"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:divider="?android:dividerHorizontal"
+                  android:showDividers="middle"  >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:text="TIME"
+        android:gravity="center"/>
+    <TextView
+        android:id="@+id/stats_time"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="64dp"
+        android:text="00:00:00"
+        android:gravity="center"
+        android:padding="8dp"/>
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:divider="?android:dividerHorizontal"
+                  android:showDividers="middle"  >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14dp"
+        android:text="SPEED"
+        android:gravity="center"/>
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal"
+                      android:gravity="center">
+            <TextView
+                android:id="@+id/stats_speed"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="64dp"
+                android:text="0:00"
+                android:layout_gravity="bottom"
+                android:padding="8dp"/>
+            <TextView
+                android:id="@+id/stats_speed_unit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="40dp"
+                android:text="mph"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="4dp"
+                android:padding="8dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:divider="?android:dividerHorizontal"
+                  android:showDividers="middle">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="AVG SPEED"
+            android:gravity="center"/>
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal"
+                      android:gravity="center">
+        <TextView
+            android:id="@+id/stats_avgspeed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="64dp"
+            android:text="0:00"
+            android:layout_gravity="bottom"
+            android:padding="8dp"/>
+            <TextView
+                android:id="@+id/stats_avgspeed_unit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="40dp"
+                android:text="mph"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="4dp"
+                android:padding="8dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical"
+                  android:divider="?android:dividerHorizontal"
+                  android:showDividers="middle"  >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="14dp"
+            android:text="DISTANCE"
+            android:gravity="center"/>
+        <LinearLayout android:layout_width="match_parent"
+                      android:layout_height="wrap_content"
+                      android:orientation="horizontal"
+                      android:gravity="center">
+
+        <TextView
+            android:id="@+id/stats_distance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="64dp"
+            android:text="0:00"
+            android:layout_gravity="bottom"
+            android:padding="8dp"/>
+            <TextView
+                android:id="@+id/stats_distance_unit"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="40dp"
+                android:text="mi"
+                android:layout_gravity="bottom"
+                android:layout_marginBottom="4dp"
+                android:padding="8dp"/>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

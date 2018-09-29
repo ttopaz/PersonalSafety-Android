@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffc3c6fc861f04d45835c9eac5cec10acc180d55">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.1_8108a7810f7c8dda1416ea99761ef954eef7f482.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ce7c0fb08194eaa2ffb8c07846a245c360feda9f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_0a9ff6d0db411b9bfbc7128fc118a66988cef005.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="973e832af433b44c3ed11c426f2f390b29f3f3f8">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\gson-2.2.4_e0c3f43833c446ad71c5223dd3051082256d3e40.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_c0dfc0670d78e3da9649ddf30b57e16f673be267.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_3d22ac57486b5b77b084af926e074929f49991de.jar" />
+    </item>
+    <item
+        jar="C:\Program Files (x86)\Android\android-studio8\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_1a48f954fa977b5527edfbf32fc98723ae59b6da.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e51f4e3317456544915089185a40f4883addbdf1">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.1_93ca37fa6b62483b755b63a6a4e3a65d539ca152.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.2.4\d952dbeacf5269df1d2d2321cdbb165dc37c82b3\firebase-client-android-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d952dbeacf5269df1d2d2321cdbb165dc37c82b3">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.2.4_7dcf44d5cb50dd05f5edeb73f8e2c6d0d3fd9602.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e711046a40e1562d85854ee09cd0a05254cb6463">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.1_bd59e667deac73bd9701d876a1b9dd8742af09b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_f3d8ecab08c15a7a4b960b6ba7e316df7c6fffd3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_440bda7d671b18991c5c59c5c4704ae91adf9373.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_b12391db4a64cd71fc596765d7aadc556b2c761e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6dcbd3a56843f14553715f22b331d017f0fabc12">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.1_a98f3dc75a6cedfba8c40493b8f483cf3bd757f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_60b1db017086de23a44f2be7f42cfefc49df23b5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.sothree.slidinguppanel\library\3.3.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ab8a4903076897a8fe029433ba0c3c3f958712ce">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.sothree.slidinguppanel-library-3.3.1_b125207bcb6d58fc248317230e62b6f77075f19a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="13270ae22369a0d50cb6c560aeca4056f025cae6">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.1_78d5f9703b1649ce23797f1b895055b3d4dcbbe5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_529436b229812447a32fabbd25dfe6a2bf55ccea.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_083118fed95a0a1edc55fb61aadc18dc280e5ba7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a3ebac72ca6befe2e900427505dbb3dd58a5ebbf">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.1_4ba6a8c2b628316513d0f30fd2c2a6e682bc7cdf.jar" />
+    </item>
+    <item
+        jar="C:\Users\Tony\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.2.4\b797b9bfb5edb54473a55ece366ead72102803bc\firebase-client-jvm-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b797b9bfb5edb54473a55ece366ead72102803bc">
+        <dex dex="C:\Users\Tony\Documents\Android\Projects\PersonalSafety\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.2.4_07ffe899d9ffa515a18bb0cd521a5bbb9f5e1a83.jar" />
+    </item>
+
+</items>

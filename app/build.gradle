@@ -1,0 +1,44 @@
+apply plugin: 'com.android.application'
+
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "23.0.3"
+    useLibrary  'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "com.topaz.personalsafety.app"
+        minSdkVersion 17
+        targetSdkVersion 21
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    packagingOptions {
+        exclude 'META-INF/DEPENDENCIES.txt'
+        exclude 'META-INF/NOTICE'
+        exclude 'META-INF/NOTICE.txt'
+        exclude 'META-INF/LICENSE'
+        exclude 'META-INF/LICENSE.txt'
+    }
+}
+
+dependencies {
+    compile files('libs/gson-2.2.4.jar')
+    compile files('libs/gson-2.2.4-javadoc.jar')
+    compile files('libs/gson-2.2.4-sources.jar')
+    compile 'com.android.support:appcompat-v7:23.+'
+    compile 'com.android.support:support-v4:23.0.+'
+/*  compile 'com.google.android.gms:play-services:4.3.23'*/
+/*    compile 'com.google.android.gms:play-services:6.5.87'*/
+    compile 'com.google.android.gms:play-services-maps:9.0.1'
+    compile 'com.google.android.gms:play-services-location:9.0.1'
+    compile 'com.firebase:firebase-client-android:2.2.4'
+    compile 'com.sothree.slidinguppanel:library:3.3.1'
+
+}
+
