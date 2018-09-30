@@ -1,4 +1,4 @@
-﻿# PersonalSafety
+﻿# PersonalSafety-Android
 
 Android client for Personal Safety project.
 
